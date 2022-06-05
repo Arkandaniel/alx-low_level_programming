@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /*
- * main - identifing the integer
+ * main - Identifing intiger
  *
  * Return: always 0 (success)
  */
@@ -22,7 +22,7 @@ int main(void)
 	}
 	if (n < 0)
 	{
-		printf("%d is negetive\n", n);
+		printf("%d is negative\n", n);
 	}
 	return (0);
 }
