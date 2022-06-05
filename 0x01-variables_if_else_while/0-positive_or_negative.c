@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /*
- * main - Identifing intiger
+ * main - Entry point
  *
  * Return: always 0 (success)
  */
