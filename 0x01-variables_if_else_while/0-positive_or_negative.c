@@ -1,8 +1,8 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*
- * main - Entry point
+/**
+ * main - Identifing the integer
  *
  * Return: always 0 (success)
  */
