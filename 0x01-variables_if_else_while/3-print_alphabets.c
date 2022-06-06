@@ -3,11 +3,11 @@
 /**
  * main - Alphabets in lowercase and uppercase
  *
- * Return - Always 0
+ * Return: Always 0
  */
 int main(void)
 {
-	int c;
+	char c;
 
 	for (c = 'a'; c <= 'z'; c++)
 	{
