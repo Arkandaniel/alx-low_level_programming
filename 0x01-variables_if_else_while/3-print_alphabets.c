@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 /**
- * main - Alphabets both in lowercase and uppercase
+ * main - Alphabets in lowercase and uppercase
  *
- * Return - always 0
+ * Return - Always 0
  */
 int main(void)
 {
-	char c;
+	int c;
 
 	for (c = 'a'; c <= 'z'; c++)
 	{
