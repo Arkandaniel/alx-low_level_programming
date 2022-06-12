@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *_isupper - checks an characters case
+ * _isupper - checks an characters case
  *
  * Return: Something but succes
  */
