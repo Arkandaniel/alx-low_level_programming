@@ -1,10 +1,9 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
  *_isupper - checks an characters case
  *
- * Return: Always 0
+ * Return: Something but succes
  */
 int _isupper(int c)
 {
