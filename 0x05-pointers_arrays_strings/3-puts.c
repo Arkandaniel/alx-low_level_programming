@@ -1,6 +1,6 @@
 #include "main.h"
 #include <stdio.h>
-#include <stdout>
+#include "stdout"
 
 /**
  * _puts - prints string
