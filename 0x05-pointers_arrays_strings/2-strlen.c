@@ -4,9 +4,16 @@
 /**
  * _strlen - returns the length of string
  * @s: character
- * Return: nothing
+ * Return: the answer
  */
 int _strlen(char *s)
 {
-	len = _strlen(s);
+	int i;
+
+	i = 0;
+	while (s[i] != '\0')
+	{
+		i++
+	}
+	return (u);
 }
