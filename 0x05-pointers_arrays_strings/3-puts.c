@@ -4,7 +4,7 @@
 /**
  * _puts - prints string
  * @str: string
- * Return: the answer
+ * Return: nothing
  */
 void _puts(char *str)
 {
@@ -15,5 +15,4 @@ void _puts(char *str)
 		i++;
 	}
 	putchar('\n');
-	return (i);
 }
