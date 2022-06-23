@@ -2,8 +2,7 @@
 #include "main.h"
 
 /**
- * print_alpahabet_x10 - prints alphabet 10x
- *
+ * print_alphabet_x10 - prints alphabet 10x
  */
 void print_alphabet_x10(void)
 {
