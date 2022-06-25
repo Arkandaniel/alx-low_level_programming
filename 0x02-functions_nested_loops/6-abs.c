@@ -6,10 +6,10 @@
  * 
  * Return: n
  */
-int _abs(int)
+int _abs(int n)
 {
 	int n;
-	if (n < 0)
+	for (n = 0; n < 0; n--);
 		n = -n;
 		return (n);
 }
