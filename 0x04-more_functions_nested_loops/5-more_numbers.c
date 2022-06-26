@@ -16,6 +16,7 @@ void more_numbers(void)
 		for (n = 0; n <= 14; i++)
 		{
 			putchar(n);
+			putchar('\n');
 		}
 	}
 	putchar('\n');
