@@ -5,6 +5,7 @@
  * _strchr - locate a char in string
  * @s: param
  * @c: char param
+ *
  * Return: pointer or null
  */
 char *_strchr(char *s, char c)
