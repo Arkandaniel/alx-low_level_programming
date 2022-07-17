@@ -12,8 +12,8 @@ void _print_rev_recursion(char *s)
 	{
 		return;
 	}
-	s++;
-	putchar (*s);
-	s--;
 	_print_rev_recursion(s);
+	s++;
+	putchar (s);
+	s--;
 }
