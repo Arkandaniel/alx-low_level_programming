@@ -1,6 +1,6 @@
-#include "main.h"
+#include "lists.h"
 #include <stdio.h>
-
+#include <string.h>
 /**
  * print_list - prints all the list_t element
  * @h: param
