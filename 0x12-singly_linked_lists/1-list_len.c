@@ -10,11 +10,10 @@ size_t list_len(const list_t *h)
 {
 	int n = 0;
 
-	struct Node* current = h
-	while (current != NULL)
+	while (h != NULL)
 	{
 		n++;
-		current = current->next;
-		return (n);
+		h = h->next;
 	}
+	return (n);
 }
